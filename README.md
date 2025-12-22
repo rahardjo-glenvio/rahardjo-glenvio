@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Glenvio 👋
 
-<!--
-**rahardjo-glenvio/rahardjo-glenvio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cybersecurity student with a strong interest in **web exploitation**  
+and an **attacker mindset balanced with defensive thinking**.
 
-Here are some ideas to get you started:
+This GitHub is my **learning journal and technical workspace** — a place where I:
+- Document my learning process
+- Store CTF write-ups (competition & practice)
+- Build and experiment with security lab simulations
+- Grow step by step through hands-on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus Areas
+- Web exploitation (SQLi, LFI/RFI, command injection, logic flaws)
+- Linux-based services and web applications
+- Attack & Defense mindset: understanding both exploitation and mitigation
+- Python for automation and security-related scripting
+
+### What you’ll find here
+- 📂 **CTF write-ups** — focused on methodology and lessons learned  
+- 🧪 **Lab simulations** — controlled environments for testing attacks & defenses  
+- 🛠️ **Small projects & scripts** — built while learning and experimenting  
+
+This repository reflects my **progress over time**, not just finished results.
+Everything here is part of a continuous learning journey.
+
+Learning. Breaking. Fixing. Improving.
