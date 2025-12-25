@@ -21,100 +21,73 @@ This GitHub serves as my learning journal and technical workspace — a place wh
 
 ---
 
-<div align="center">
+## Current Focus
 
-## 🎯 Current Focus
+I'm currently diving deep into three core areas:
 
-</div>
+**Cryptography**  
+Classical ciphers, RSA vulnerabilities, steganography, and cryptanalysis techniques
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Reverse Engineering**  
+Binary analysis, bytecode reversing, decompilation, and understanding program flow
 
-### 🔐 Cryptography
-- Classical ciphers
-- RSA vulnerabilities
-- Steganography
-- Cryptanalysis techniques
+**Web Exploitation**  
+SQL Injection, LFI/RFI, command injection, SSRF, authentication bypass, and logic flaws
 
-</td>
-<td width="33%" valign="top">
+---
 
-### 🔍 Reverse Engineering
-- Binary analysis
-- Bytecode reversing
-- Decompilation
-- Program flow analysis
+## What You'll Find Here
 
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Web Exploitation
-- SQL Injection
-- LFI/RFI
-- Command Injection
-- SSRF & Auth Bypass
-
-</td>
-</tr>
-</table>
+**CTF Write-ups** — Detailed methodology and lessons learned from picoCTF, HackTheBox, and TryHackMe  
+**Lab Simulations** — Controlled environments for testing attacks and defenses  
+**Scripts & Tools** — Python automation and security-related utilities built while learning
 
 ---
 
 <div align="center">
 
-## 📂 What You'll Find Here
+## Tech Stack & Tools
 
-</div>
+**Development Environment**
 
-| Category | Description |
-|----------|-------------|
-| **CTF Write-ups** | Detailed methodology and lessons learned from picoCTF, HackTheBox, and TryHackMe |
-| **Lab Simulations** | Controlled environments for testing attacks and defenses |
-| **Scripts & Tools** | Python automation and security-related utilities |
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<br>
-
-**Languages**
+**Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<br>
-
-**Security Tools**
+**Web Exploitation**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=database&logoColor=white)
+
+**Reverse Engineering**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-EF3B2D?style=for-the-badge&logo=reverse-engineering&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-4B0082?style=for-the-badge&logo=reverse-engineering&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-659AD2?style=for-the-badge&logo=gnu&logoColor=white)
+
+**Cryptography & Steganography**
+
+![John the Ripper](https://img.shields.io/badge/John-8B0000?style=for-the-badge&logo=security&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF6B35?style=for-the-badge&logo=security&logoColor=white)
+![Steghide](https://img.shields.io/badge/Steghide-2E8B57?style=for-the-badge&logo=image&logoColor=white)
+
+**Network & Forensics**
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-<br>
+**Other Tools**
 
-**Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 My Journey
-```
-┌─────────────────────────────────────────────────────┐
-│  Progress in Cybersecurity                          │
-├─────────────────────────────────────────────────────┤
-│  Cryptography        ████████░░  80%                │
-│  Reverse Engineering █████░░░░░  50%                │
-│  Web Exploitation    ███████░░░  70%                │
-└─────────────────────────────────────────────────────┘
-```
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=terminal&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-FF9800?style=for-the-badge&logo=chef&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-228B22?style=for-the-badge&logo=binary&logoColor=white)
 
 </div>
 
@@ -122,7 +95,7 @@ This GitHub serves as my learning journal and technical workspace — a place wh
 
 <div align="center">
 
-## 🏆 CTF Platforms
+## CTF Platforms
 
 [![picoCTF](https://img.shields.io/badge/picoCTF-Active-success?style=for-the-badge&logo=hackaday&logoColor=white)](https://picoctf.org)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Learning-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.eu)
@@ -134,16 +107,10 @@ This GitHub serves as my learning journal and technical workspace — a place wh
 
 <div align="center">
 
-<br>
-
 *This repository reflects my progress over time, not just finished results.*  
 *Everything here is part of a continuous learning journey.*
 
-<br>
-
 **Learning. Breaking. Fixing. Improving.**
-
-<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer)
 
