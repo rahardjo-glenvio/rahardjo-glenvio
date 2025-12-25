@@ -1,19 +1,21 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Glenvio%20Regalito%20Rahardjo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20|%20CTF%20Player&descAlignY=51&descAlign=50)
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahardjo-glenvio&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=300&section=header&text=Glenvio%20Regalito%20Rahardjo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20|%20CTF%20Player&descAlignY=51&descAlign=50)
+
+<img src="https://komarev.com/ghpvc/?username=rahardjo-glenvio&color=blue&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
 ## Hi, I'm Glenvio
 
-I'm a cybersecurity student with a strong interest in web exploitation and an attacker mindset balanced with defensive thinking.
+I'm a vocational high school student at SMK Telkom Purwokerto, majoring in Computer Network and Telecommunications Engineering. I have a strong interest in cybersecurity, particularly in web exploitation, with an attacker mindset balanced by defensive thinking.
 
-This GitHub is my learning journal and technical workspace — a place where I:
+This GitHub serves as my learning journal and technical workspace — a place where I:
 
 - Document my learning process
-- Store CTF write-ups (competition & practice)
+- Store CTF write-ups from competitions and practice
 - Build and experiment with security lab simulations
 - Grow step by step through hands-on projects
 
@@ -38,50 +40,34 @@ SQLi, LFI/RFI, command injection, SSRF, authentication bypass, and logic flaws
 
 ---
 
-## Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Security Tools**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-
-**Platforms**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-
----
-
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahardjo-glenvio&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahardjo-glenvio&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" width="48%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahardjo-glenvio&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahardjo-glenvio&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Recent Activity
 
-[![Glen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahardjo-glenvio&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+[![Glen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahardjo-glenvio&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<p align="center">
-  <i>This repository reflects my progress over time, not just finished results.<br>
-  Everything here is part of a continuous learning journey.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Learning. Breaking. Fixing. Improving.</b>
-</p>
+<i>This repository reflects my progress over time, not just finished results.<br>
+Everything here is part of a continuous learning journey.</i>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+**Learning. Breaking. Fixing. Improving.**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer)
+
+</div>
