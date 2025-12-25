@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=300&section=header&text=Glenvio%20Regalito%20Rahardjo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20|%20CTF%20Player&descAlignY=51&descAlign=50)
 
-<img src="https://komarev.com/ghpvc/?username=rahardjo-glenvio&color=blue&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=GANTI-USERNAME-KAMU&color=blue&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -40,12 +40,31 @@ SQLi, LFI/RFI, command injection, SSRF, authentication bypass, and logic flaws
 
 ---
 
+<div align="center">
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Security Tools**  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**Platforms**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahardjo-glenvio&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahardjo-glenvio&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api?username=GANTI-USERNAME-KAMU&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI-USERNAME-KAMU&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" width="48%" />
 
 </div>
 
@@ -57,7 +76,7 @@ SQLi, LFI/RFI, command injection, SSRF, authentication bypass, and logic flaws
 
 </div>
 
-[![Glen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahardjo-glenvio&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Glen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GANTI-USERNAME-KAMU&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
