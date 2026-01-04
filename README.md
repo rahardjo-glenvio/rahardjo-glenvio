@@ -142,9 +142,7 @@ This repository reflects my learning process — including mistakes, iterations,
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahardjo-glenvio&theme=dark&hide_border=true&background=0D1117&stroke=3E5F44&ring=93DA97&fire=5E936C&currStreakLabel=E8FFD7&sideLabels=E8FFD7&currStreakNum=93DA97&sideNums=5E936C&dates=93DA97)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=93DA97&text_color=E8FFD7&icon_color=5E936C&border_color=3E5F44&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rahardjo-glenvio)](https://git.io/streak-stats)
 
 </div>
 
