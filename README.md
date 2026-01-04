@@ -1,16 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=3E5F44&height=300&section=header&text=Glenvio%20Regalito%20Rahardjo&fontSize=50&fontColor=E8FFD7&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20CTF%20Player%20|%20Bug%20Hunter&descAlignY=51&descAlign=50&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=3E5F44&height=300&section=header&text=Glenvio%20Regalito&fontSize=60&fontColor=E8FFD7&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Specialist%20%7C%20Penetration%20Testing%20%7C%20CTF%20Player&descAlignY=55&descAlign=50&descSize=18)
 
-<img src="https://komarev.com/ghpvc/?username=rahardjo-glenvio&color=5E936C&style=for-the-badge" alt="Profile views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=93DA97&center=true&vCenter=true&width=600&lines=Breaking+systems.+Building+defenses.;Web+Exploitation+%7C+Reverse+Engineering;Cryptography+%7C+Network+Security;SMK+Telkom+Purwokerto+%7C+Grade+11)](https://git.io/typing-svg)
 
-### 👨‍💻 Breaking Things to Learn How They Work
+<img src="https://komarev.com/ghpvc/?username=rahardjo-glenvio&color=5E936C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 ```python
 class CybersecurityStudent:
     def __init__(self):
@@ -18,61 +18,161 @@ class CybersecurityStudent:
         self.school = "SMK Telkom Purwokerto"
         self.major = "Computer Network & Telecommunications (TJKT)"
         self.specialization = "Cybersecurity"
-        self.mindset = ["Attacker Perspective", "Defensive Thinking"]
-        self.current_goal = "PKL Internship at Penetration Testing Company"
+        self.mindset = "Offensive Security | Defensive Thinking"
+        self.goal = "PKL Internship @ X-code Security (Penetration Testing)"
         
-    def daily_activities(self):
-        return [
-            "🔍 Hunting vulnerabilities in CTF challenges",
-            "📝 Documenting exploits and techniques",
-            "🛠️ Building security lab environments",
-            "💡 Learning from every bug and mistake"
-        ]
+    def current_focus(self):
+        return {
+            "web_exploitation": ["SQLi", "XSS", "IDOR", "CSRF", "Auth Bypass"],
+            "cryptography": ["RSA", "Classical Ciphers", "Steganography"],
+            "reverse_engineering": ["Binary Analysis", "Decompilation", "Bytecode"]
+        }
     
-    def future_plans(self):
-        return "Become a skilled penetration tester and security researcher"
+    def daily_routine(self):
+        return [
+            "🔍 Hunt vulnerabilities in SecureBank VulnLab",
+            "🎯 Solve CTF challenges (picoCTF, HackTheBox, TryHackMe)",
+            "📝 Document findings in professional reports",
+            "🛠️ Build security tools and automation scripts"
+        ]
 ```
+
+> **This GitHub is my digital lab notebook** — documenting every vulnerability discovered, every challenge solved, every lesson learned on my journey to becoming a penetration tester.
 
 ---
 
-## 🎮 Current Battlegrounds
+## 🎯 Current Mission: VulnLab 30-Day Challenge
+
+<div align="center">
+```diff
++ ✅ Day 1-4: SQL Injection (VULN-001) - COMPLETE
++ ✅ Day 5: Cross-Site Scripting (VULN-002) - COMPLETE
+! ⚙️ Day 6: Plain Text Passwords (VULN-004) - IN PROGRESS
+! ⚙️ Day 7: IDOR (VULN-003) - IN PROGRESS
+- ⏳ Day 8-30: 6 More Vulnerabilities - SCHEDULED
+
+📊 Progress: 2/10 Vulnerabilities Documented (20%)
+🎯 Target: Full OWASP Top 10 Portfolio by Jan 30, 2026
+```
+
+**[🔗 View SecureBank VulnLab Project](https://github.com/rahardjo-glenvio/cybersecurity-portfolio)**
+
+</div>
+
+---
+
+## 🔥 GitHub Stats & Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=dark&bg_color=0d1117&title_color=93DA97&text_color=E8FFD7&icon_color=5E936C&border_color=3E5F44&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rahardjo-glenvio&theme=dark&background=0d1117&ring=93DA97&fire=93DA97&currStreakLabel=E8FFD7&sideLabels=E8FFD7&currStreakNum=93DA97&sideNums=93DA97&dates=5E936C&border=3E5F44" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahardjo-glenvio&layout=compact&theme=dark&bg_color=0d1117&title_color=93DA97&text_color=E8FFD7&border_color=3E5F44&hide_border=false" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahardjo-glenvio&bg_color=0d1117&color=93DA97&line=5E936C&point=E8FFD7&area=true&area_color=3E5F44&hide_border=false&custom_title=Contribution%20Activity" />
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahardjo-glenvio&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&title_color=93DA97&text_color=E8FFD7&icon_color=5E936C&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🛠️ Arsenal & Tech Stack
+
+<div align="center">
+
+### 💻 Development Environment
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🐍 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Exploitation
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=database&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=security&logoColor=white)
+
+### 🔍 Reverse Engineering
+![Ghidra](https://img.shields.io/badge/Ghidra-EF3B2D?style=for-the-badge&logo=reverse-engineering&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-4B0082?style=for-the-badge&logo=reverse-engineering&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-659AD2?style=for-the-badge&logo=gnu&logoColor=white)
+![IDA](https://img.shields.io/badge/IDA-0078D4?style=for-the-badge&logo=reverse-engineering&logoColor=white)
+
+### 🔐 Cryptography & Password Cracking
+![Hashcat](https://img.shields.io/badge/Hashcat-FF6B35?style=for-the-badge&logo=security&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John-8B0000?style=for-the-badge&logo=security&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-FF9800?style=for-the-badge&logo=chef&logoColor=white)
+
+### 🌐 Network & Reconnaissance
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=terminal&logoColor=white)
+
+### 🕵️ Forensics & Steganography
+![Steghide](https://img.shields.io/badge/Steghide-2E8B57?style=for-the-badge&logo=image&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-228B22?style=for-the-badge&logo=binary&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-DC143C?style=for-the-badge&logo=memory&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 CTF Platforms & Achievements
+
+<div align="center">
+
+[![picoCTF](https://img.shields.io/badge/picoCTF-🏴‍☠️_Active_Player-success?style=for-the-badge&logo=hackaday&logoColor=white)](https://picoctf.org)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-🎯_Learning_Path-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.eu)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-🔥_Practicing-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
+### 🏅 Recent CTF Achievements
+```yaml
+Cyber Jawara 2025: Finalist
+CSC Competition: Rank #10
+Team: 3-person CTF squad specializing in:
+  - Cryptography (RSA, Classical Ciphers)
+  - Web Exploitation (SQLi, XSS, IDOR)
+  - Reverse Engineering (Binary Analysis)
+```
+
+</div>
+
+---
+
+## 📁 What You'll Find Here
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%">
 
-### 🔐 Cryptography
-Breaking ciphers, one algorithm at a time
-
-**Focus Areas:**
-- Classical Ciphers (Caesar, Vigenère, Substitution)
-- RSA Vulnerabilities & Factorization
-- Steganography & Hidden Messages
-- Hash Cracking & Rainbow Tables
+### 🔐 Security Projects
+- **SecureBank VulnLab** - 30-day OWASP Top 10 challenge
+- **CTF Write-ups** - Detailed methodology & solutions
+- **Exploitation Tools** - Custom Python security scripts
+- **Network Scanners** - Multi-port banner grabbing tools
 
 </td>
-<td width="33%" align="center">
+<td width="50%">
 
-### 🔬 Reverse Engineering
-Deconstructing binaries to understand their secrets
-
-**Focus Areas:**
-- Binary Analysis (ELF, PE)
-- Python Bytecode Reversing
-- Decompilation & Debugging
-- Control Flow Analysis
-
-</td>
-<td width="33%" align="center">
-
-### 🌐 Web Exploitation
-Finding and exploiting web vulnerabilities
-
-**Focus Areas:**
-- SQL Injection (UNION, Blind, Time-based)
-- XSS (Stored, Reflected, DOM-based)
-- IDOR & Access Control Bypass
-- Authentication & Logic Flaws
+### 📚 Learning Resources
+- **Vulnerability Reports** - Professional security assessments
+- **Code Snippets** - Reusable security patterns
+- **Lab Simulations** - Controlled testing environments
+- **Documentation** - Technical notes & guides
 
 </td>
 </tr>
@@ -80,177 +180,88 @@ Finding and exploiting web vulnerabilities
 
 ---
 
-## 📂 What's Inside This Arsenal?
+## 🎓 Certifications & Training
 
 <div align="center">
 
-| 📁 Repository Type | 📝 Description | 🎯 Purpose |
-|:------------------|:--------------|:----------|
-| **🚩 CTF Write-ups** | Detailed solutions from picoCTF, HackTheBox, TryHackMe | Learning methodology and problem-solving |
-| **🔬 Lab Simulations** | Intentionally vulnerable applications (VulnLab 30-days) | Controlled attack/defense practice |
-| **🛠️ Security Tools** | Python scripts for automation and exploitation | Building custom pentesting utilities |
-| **📚 Learning Notes** | Organized markdown documentation | Knowledge retention and reference |
+![Cyber Security Officer](https://img.shields.io/badge/Cyber_Security_Officer-Telkom_DigiUp-5E936C?style=for-the-badge)
+![Azure AI](https://img.shields.io/badge/Microsoft_Azure_AI-Fundamentals-93DA97?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Fundamentals-E8FFD7?style=for-the-badge&labelColor=3E5F44)
+
+**Currently Preparing For:**
+- CEH (Certified Ethical Hacker) - Targeted 2026
+- eJPT (eLearnSecurity Junior Penetration Tester)
 
 </div>
 
 ---
 
-## 🔧 Tech Arsenal & Weapons
+## 💼 Career Goals
 
-<div align="center">
+> **Target PKL Internship:** Penetration Testing role at X-code Security (Yogyakarta)  
+> **Timeline:** 12th Grade (2026-2027)  
+> **Preparation:** Building comprehensive vulnerability assessment portfolio
 
-### 💻 Development Environment
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-5E936C?style=for-the-badge&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-3E5F44?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-93DA97?style=for-the-badge&logo=ubuntu&logoColor=black)
-
-### 🐍 Languages & Scripting
-
-![Python](https://img.shields.io/badge/Python_3.12-5E936C?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-3E5F44?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-93DA97?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Exploitation Tools
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-5E936C?style=for-the-badge&logo=burp-suite&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-3E5F44?style=for-the-badge&logo=database&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-93DA97?style=for-the-badge&logo=owasp&logoColor=black)
-![Nikto](https://img.shields.io/badge/Nikto-5E936C?style=for-the-badge&logo=security&logoColor=white)
-
-### 🔍 Reverse Engineering
-
-![Ghidra](https://img.shields.io/badge/Ghidra-3E5F44?style=for-the-badge&logo=reverse-engineering&logoColor=white)
-![Radare2](https://img.shields.io/badge/Radare2-5E936C?style=for-the-badge&logo=reverse-engineering&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB_+_PEDA-93DA97?style=for-the-badge&logo=gnu&logoColor=black)
-![IDA](https://img.shields.io/badge/IDA_Free-3E5F44?style=for-the-badge&logo=ida&logoColor=white)
-
-### 🔐 Crypto & Password Cracking
-
-![John](https://img.shields.io/badge/John_the_Ripper-5E936C?style=for-the-badge&logo=security&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-3E5F44?style=for-the-badge&logo=security&logoColor=white)
-![CyberChef](https://img.shields.io/badge/CyberChef-93DA97?style=for-the-badge&logo=chef&logoColor=black)
-
-### 🌐 Network & Recon
-
-![Nmap](https://img.shields.io/badge/Nmap-5E936C?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-3E5F44?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-93DA97?style=for-the-badge&logo=metasploit&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-### 🎮 Pac-Man is eating my commits!
-
-![](https://github.com/rahardjo-glenvio/rahardjo-glenvio/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📈 Stats & Achievements
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=default&bg_color=E8FFD7&title_color=3E5F44&icon_color=5E936C&text_color=3E5F44&border_color=93DA97&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahardjo-glenvio&theme=default&background=E8FFD7&ring=5E936C&fire=5E936C&currStreakLabel=3E5F44&sideNums=3E5F44&currStreakNum=3E5F44&sideLabels=3E5F44&dates=3E5F44&stroke=93DA97&border=93DA97&border_radius=10" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahardjo-glenvio&layout=compact&theme=default&bg_color=E8FFD7&title_color=3E5F44&text_color=3E5F44&border_color=93DA97&border_radius=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahardjo-glenvio&bg_color=E8FFD7&color=3E5F44&line=5E936C&point=93DA97&area=true&border_color=93DA97&border_radius=10" />
-
-</div>
-
----
-
-## 🏆 CTF Platforms & Competitions
-
-<div align="center">
-
-[![picoCTF](https://img.shields.io/badge/🚩_picoCTF-Active_Player-5E936C?style=for-the-badge&logo=hackaday&logoColor=white)](https://picoctf.org)
-[![HackTheBox](https://img.shields.io/badge/📦_HackTheBox-Learning_Path-3E5F44?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.eu)
-[![TryHackMe](https://img.shields.io/badge/🎯_TryHackMe-Practicing-93DA97?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com)
-
-### 🎖️ Recent CTF Achievements
-
-| Event | Rank | Category | Date |
-|:------|:----:|:---------|:-----|
-| **Cyber Security Competition 2024** | 🥉 Top 10 | Mixed | Dec 2024 |
-| **Cyber Jawara 2025** | 🎯 Finalist | National | Jan 2025 |
-
-</div>
-
----
-
-## 🎯 Current Mission: 30-Day VulnLab Challenge
-
-<div align="center">
-```ascii
-Day 5/30 ████████░░░░░░░░░░░░░░░░░░░░ 16.7% Complete
-
-✅ SQL Injection          [DOCUMENTED]
-✅ XSS                   [DOCUMENTED]
-⏳ IDOR                  [IN PROGRESS]
-⏳ Plain Text Passwords  [IN PROGRESS]
-⬜ CSRF
-⬜ Broken Authentication
-⬜ Input Validation
-⬜ Session Management
-⬜ Information Disclosure
-⬜ No Rate Limiting
+**Why Cybersecurity?**
+```
+I'm fascinated by the attacker's perspective—understanding how systems break
+helps me build better defenses. Every vulnerability I discover teaches me 
+how to architect more secure solutions. This isn't just about breaking; 
+it's about understanding, documenting, and ultimately, protecting.
 ```
 
-**Goal:** Build intentionally vulnerable banking app → Document all exploits → Create professional security reports
-
-</div>
-
 ---
 
-## 🌱 Learning Philosophy
+## 📊 Weekly Development Breakdown
 
-<div align="center">
-
-> *"Security is not a product, but a process. And I'm here to learn that process, one vulnerability at a time."*
-
-### 💡 My Approach
+<!--START_SECTION:waka-->
+```text
+Penetration Testing    15 hrs 30 mins  ██████████░░░░░░░   45.2%
+Documentation          8 hrs 20 mins   ██████░░░░░░░░░░░   24.3%
+CTF Challenges         6 hrs 15 mins   ████░░░░░░░░░░░░░   18.2%
+Tool Development       4 hrs 10 mins   ███░░░░░░░░░░░░░░   12.3%
 ```
-🔴 Break it first → 🟡 Understand why it broke → 🟢 Learn how to fix it → 🔵 Document everything
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5E936C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/glenvio-rahardjo)
+[![Email](https://img.shields.io/badge/Email-Contact-93DA97?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glenvio.rahardjo@student.smktelkom-pwt.sch.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-E8FFD7?style=for-the-badge&logo=github&logoColor=black&labelColor=3E5F44)](https://github.com/rahardjo-glenvio/cybersecurity-portfolio)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+*"This repository reflects my progress over time, not just finished results.*  
+*Every commit is a step forward. Every bug is a lesson learned.*  
+*Every vulnerability discovered makes me a better defender."*
+
+### 🚀 Status: Always Learning
+```diff
+@@ Glenvio's Journey @@
+- Started: December 2024
++ Current: Building comprehensive security portfolio
++ Next: PKL internship in penetration testing
+! Goal: Become a professional cybersecurity specialist
 ```
 
-**This repository is not a showcase of perfection.**  
-**It's a journal of progress, mistakes, and continuous improvement.**
+**🔐 Breaking systems. 🛡️ Building defenses. 📈 Continuously improving.**
 
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-rahardjo--glenvio-3E5F44?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahardjo-glenvio)
-[![Email](https://img.shields.io/badge/Email-glenvio.rahardjo%40gmail.com-5E936C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glenvio.rahardjo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-93DA97?style=for-the-badge&logo=linkedin&logoColor=black)]()
-
-**Open to collaboration, mentorship, and learning opportunities!**
-
-</div>
-
----
-
-<div align="center">
-
-### 🎮 Keep Hacking, Keep Learning!
-
-*Every bug is a lesson. Every exploit is a teacher. Every patch is growth.*
-
-**Break. Learn. Build. Repeat.** 🔁
+![Snake animation](https://raw.githubusercontent.com/rahardjo-glenvio/rahardjo-glenvio/output/github-contribution-grid-snake-dark.svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3E5F44&height=120&section=footer)
+
+---
+
+<sub>⭐ Star my repositories if you find them helpful! | 🔄 Fork and contribute to ongoing projects | 📫 Reach out for collaboration</sub>
 
 </div>
