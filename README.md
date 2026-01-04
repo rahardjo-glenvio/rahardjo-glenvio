@@ -151,12 +151,13 @@ Building a complete **OWASP Top 10 exploitation portfolio** through SecureBank, 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=dark&bg_color=0d1117&title_color=93DA97&text_color=E8FFD7&icon_color=5E936C&border_color=3E5F44&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahardjo-glenvio&layout=compact&theme=dark&bg_color=0d1117&title_color=93DA97&text_color=E8FFD7&border_color=3E5F44"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahardjo-glenvio&theme=dark&hide_border=true&background=0D1117&stroke=3E5F44&ring=93DA97&fire=5E936C&currStreakLabel=E8FFD7&sideLabels=E8FFD7&currStreakNum=93DA97&sideNums=5E936C&dates=93DA97)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=93DA97&text_color=E8FFD7&icon_color=5E936C&border_color=3E5F44&count_private=true&hide=contribs)
 
 </div>
 
@@ -236,24 +237,13 @@ This GitHub repository documents my continuous journey in cybersecurity — ever
 
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Contact-5E936C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glenvio.rahardjo@student.smktelkom-pwt.sch.id)
+[![Email](https://img.shields.io/badge/Email-Contact-5E936C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glenviorahardjo29@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-93DA97?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahardjo-glenvio/cybersecurity-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E8FFD7?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=3E5F44)](https://linkedin.com/in/glenvio-rahardjo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E8FFD7?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=3E5F44)](https://linkedin.com/in/glenvio-regalito-rahardjo-2784ba387)
 
 ---
 
 <div align="center">
-
-### 🚀 Current Status
-
-**Building security expertise one vulnerability at a time.**
-```diff
-@@ Journey Progress @@
-+ Started: December 2024
-+ Current: VulnLab 30-Day Challenge (Day 5/30)
-+ Focus: OWASP Top 10 Portfolio Development
-! Next: PKL Internship in Yogyakarta
-```
 
 **Breaking systems. Building defenses. Continuously improving.**
 
