@@ -37,7 +37,7 @@ I approach security with an **offensive mindset balanced by defensive thinking**
 Building a complete **OWASP Top 10 exploitation portfolio** through SecureBank, an intentionally vulnerable banking application.
 
 **Progress Tracker:**
-```
+```diff
 ✅ VULN-001: SQL Injection (Complete)
 ✅ VULN-002: Cross-Site Scripting (Complete)  
 ⚙️ VULN-003: IDOR (In Progress)
@@ -70,6 +70,8 @@ Building a complete **OWASP Top 10 exploitation portfolio** through SecureBank, 
 ---
 
 ## 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 **Development Environment:**
 
@@ -110,22 +112,31 @@ Building a complete **OWASP Top 10 exploitation portfolio** through SecureBank, 
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-000000?style=flat-square&logo=terminal&logoColor=white)
 
+</div>
+
 ---
 
 ## 📚 Core Competencies
 
+<table>
+<tr>
+<td width="50%">
+
 **Web Exploitation**
-- SQL Injection (Authentication bypass, data extraction, UNION-based attacks)
-- Cross-Site Scripting (Stored, Reflected, DOM-based XSS)
+- SQL Injection (Authentication bypass, data extraction)
+- Cross-Site Scripting (Stored, Reflected, DOM-based)
 - Insecure Direct Object Reference (IDOR)
 - Cross-Site Request Forgery (CSRF)
-- Authentication & authorization bypass techniques
+- Authentication & authorization bypass
 
 **Cryptography**
 - RSA vulnerability exploitation
 - Classical cipher cryptanalysis
 - Steganography & hidden data extraction
 - Hash cracking methodologies
+
+</td>
+<td width="50%">
 
 **Reverse Engineering**
 - Binary analysis & decompilation
@@ -139,15 +150,23 @@ Building a complete **OWASP Top 10 exploitation portfolio** through SecureBank, 
 - Traffic analysis with Wireshark
 - Packet crafting with Scapy
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎯 CTF Platforms
 
+<div align="center">
+
 **Active Training Grounds:**
 
-[![picoCTF](https://img.shields.io/badge/picoCTF-Active-success?style=for-the-badge&logo=hackaday&logoColor=white)](https://picoctf.org)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Learning-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.eu)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Practicing-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![picoCTF](https://img.shields.io/badge/picoCTF-🏴‍☠️_Active-success?style=for-the-badge&logo=hackaday&logoColor=white)](https://picoctf.org)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-🎯_Learning-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.eu)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-🔥_Practicing-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
+</div>
 
 ---
 
@@ -157,7 +176,7 @@ Building a complete **OWASP Top 10 exploitation portfolio** through SecureBank, 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahardjo-glenvio&theme=dark&hide_border=true&background=0D1117&stroke=3E5F44&ring=93DA97&fire=5E936C&currStreakLabel=E8FFD7&sideLabels=E8FFD7&currStreakNum=93DA97&sideNums=5E936C&dates=93DA97)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=93DA97&text_color=E8FFD7&icon_color=5E936C&border_color=3E5F44&count_private=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=93DA97&text_color=E8FFD7&icon_color=5E936C&border_color=3E5F44&count_private=true)
 
 </div>
 
@@ -211,6 +230,7 @@ Building a complete **OWASP Top 10 exploitation portfolio** through SecureBank, 
 - 🎓 **Duration:** Mandatory vocational internship program
 
 **Target Companies:**
+
 Penetration testing firms and cybersecurity consultancies in Yogyakarta offering hands-on vulnerability assessment and ethical hacking training.
 
 **What I Bring:**
@@ -237,20 +257,31 @@ This GitHub repository documents my continuous journey in cybersecurity — ever
 
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Contact-5E936C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glenviorahardjo29@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-93DA97?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahardjo-glenvio/cybersecurity-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E8FFD7?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=3E5F44)](https://linkedin.com/in/glenvio-regalito-rahardjo-2784ba387)
+<div align="center">
+
+**Open for PKL Internship Opportunities in Yogyakarta**
+
+[![Email](https://img.shields.io/badge/📧_Email-glenviorahardjo29@gmail.com-5E936C?style=for-the-badge)](mailto:glenviorahardjo29@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-Cybersecurity_Projects-93DA97?style=for-the-badge)](https://github.com/rahardjo-glenvio/cybersecurity-portfolio)
+
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Professional_Profile-E8FFD7?style=for-the-badge&labelColor=3E5F44)](https://linkedin.com/in/glenvio-regalito-rahardjo-2784ba387)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Breaking systems. Building defenses. Continuously improving.**
+---
+
+*This repository reflects my progress over time, not just finished results.*  
+*Every commit is a step forward. Every vulnerability discovered is a lesson learned.*
 
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3E5F44&height=120&section=footer)
 
-<sub>⭐ Star my repositories if you find them useful | 🔄 Open for collaboration on security projects | 📫 Available for PKL internship opportunities</sub>
+<sub>⭐ Star my repositories if you find them useful | 🔄 Open for collaboration | 📫 Available for PKL internship in Yogyakarta</sub>
 
 </div>
