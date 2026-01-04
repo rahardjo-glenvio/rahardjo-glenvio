@@ -73,8 +73,8 @@ I participate in Capture The Flag competitions to apply what I'm learning and ch
 - Focused on web exploitation and cryptography challenges
 
 🥈 **Cyber Security Competition Piala Gubernur 2025** — Top 10 Finalist
-- Team-based jeopardy CTF
-- Contributed to web security and basic crypto challenges
+- Team-based Attack & Defense CTF
+- Contribute to the patching section
 
 🥉 **Cyber Security School Competition (Amikom Yogyakarta)** — Top 21
 - Regional competition for vocational and high school students
