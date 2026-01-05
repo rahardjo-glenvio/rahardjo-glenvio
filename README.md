@@ -138,14 +138,6 @@ This repository reflects my learning process — including mistakes, iterations,
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rahardjo-glenvio)](https://git.io/streak-stats)
-
-</div>
-
 I'm working on building consistency through daily learning and regular commits. My goal is to demonstrate progress over time, not perfection from day one.
 
 ---
