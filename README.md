@@ -1,210 +1,438 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=3E5F44&height=250&section=header&text=Glenvio%20Regalito%20Rahardjo&fontSize=50&fontColor=E8FFD7&animation=twinkling&fontAlignY=38)
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=300&section=header&text=Glenvio%20Rahardjo&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Penetration%20Testing%20Learner&descAlignY=55&descSize=20)
 
-### Vocational Cybersecurity Student | Learning Penetration Testing | CTF Enthusiast
+<!-- Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=SMK+Telkom+Purwokerto+%7C+TJKT+Grade+11;Vocational+Cybersecurity+Student;CTF+Competitor+%7C+PKL+Opportunity+Seeker" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=93DA97&center=true&vCenter=true&width=550&lines=SMK+Telkom+Purwokerto+%7C+Grade+11;Building+cybersecurity+fundamentals;Seeking+PKL+internship+in+Yogyakarta)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahardjo-glenvio&color=5E936C&style=flat-square&label=Profile+Views)
+<!-- Badges Row -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blueviolet?style=for-the-badge&logo=hackaday&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-PKL_Hunting-00FFFF?style=for-the-badge&logo=target&logoColor=black" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=rahardjo-glenvio&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
 
-Hi, I'm **Glenvio** — a vocational high school student at **SMK Telkom Purwokerto** studying Computer Network & Telecommunications Engineering (TJKT) with a growing interest in cybersecurity.
+```python
+class CybersecurityStudent:
+    def __init__(self):
+        self.name = "Glenvio Regalito Rahardjo"
+        self.role = "Vocational Cybersecurity Student"
+        self.school = "SMK Telkom Purwokerto"
+        self.major = "Computer Network & Telecommunications (TJKT)"
+        self.grade = 11
+        self.location = "Purwokerto, Indonesia"
+        
+    def current_mission(self):
+        return {
+            "learning": ["Web Security", "Cryptography", "Reverse Engineering"],
+            "practicing": "Daily CTF challenges & hands-on labs",
+            "seeking": "PKL Internship in Yogyakarta (Cybersecurity)",
+            "mindset": "Learning by doing, one vulnerability at a time"
+        }
+    
+    def get_status(self):
+        return "🎯 Building foundations through CTF | 🔐 Exploring security fundamentals"
 
-I'm working on building a solid foundation in security fundamentals through hands-on practice, CTF competitions, and self-directed learning. While I'm still at the beginning of my journey, I approach cybersecurity with genuine curiosity and consistent effort.
+student = CybersecurityStudent()
+print(student.get_status())
+```
 
-**Current Status:**
-- 🎓 Grade 11 student preparing for industry experience
-- 🎯 Seeking PKL (internship) opportunities in Yogyakarta's cybersecurity sector
-- 📚 Building practical skills through CTF challenges and lab exercises
-- 🔧 Learning by doing — one vulnerability, one challenge at a time
+<div align="center">
 
-**What This GitHub Represents:**
+### 🎯 Current Focus
 
-This repository is my learning journal. It's not a portfolio of expert work — it's a record of progress, practice, and persistence. Every commit represents a step forward in understanding how security works.
+```mermaid
+mindmap
+  root((Cybersecurity<br/>Journey))
+    Web Security
+      SQL Injection
+      XSS Variants
+      IDOR
+      Auth Bypass
+    Cryptography
+      Classical Ciphers
+      RSA Basics
+      Hash Cracking
+      Steganography
+    Reverse Engineering
+      Assembly Reading
+      GDB Debugging
+      Ghidra Analysis
+      Binary Exploitation
+    Network Security
+      Nmap Scanning
+      Wireshark Analysis
+      Protocol Understanding
+      Packet Inspection
+```
 
----
-
-## 🎯 Current Learning Focus
-
-I'm actively developing skills in these areas:
-
-**Web Application Security (Fundamentals)**
-- Learning manual SQL Injection techniques
-- Understanding Cross-Site Scripting (XSS) variants
-- Practicing IDOR (Insecure Direct Object Reference) identification
-- Exploring authentication and authorization vulnerabilities
-
-**Cryptography (Introductory Level)**
-- Classical cipher analysis
-- Basic RSA concepts and common weaknesses
-- Hash cracking fundamentals with Hashcat
-- Steganography basics
-
-**Reverse Engineering (Beginner)**
-- Reading and understanding assembly basics
-- Using GDB for simple debugging
-- Static analysis with Ghidra
-- Learning program flow analysis
-
-**Network Security (Learning)**
-- Port scanning and service enumeration with Nmap
-- Traffic analysis using Wireshark
-- Understanding common network protocols
-- Basic packet analysis
-
-> **Note:** I'm actively learning all of these skills. I don't claim advanced expertise — just steady progress and hands-on practice.
-
----
-
-## 🏆 CTF Competitions & Experience
-
-I participate in Capture The Flag competitions to apply what I'm learning and challenge myself:
-
-**2025 Competitions:**
-
-🎯 **Cyber Jawara 2025** — National CTF Competition
-- Participated as team member
-- Focused on web exploitation and cryptography challenges
-
-🥈 **Cyber Security Competition Piala Gubernur 2025** — Top 10 Finalist
-- Team-based Attack & Defense CTF
-- Contribute to the patching section
-
-🥉 **Cyber Security School Competition (Amikom Yogyakarta)** — Top 21
-- Regional competition for vocational and high school students
-- Gained experience in time-pressured problem solving
-
-**What I Learn from CTF:**
-- How to research and find solutions independently
-- Working under time constraints
-- Collaborating with teammates on technical challenges
-- Reading documentation and applying new concepts quickly
-
-These competitions help me understand my current skill level and identify areas where I need more practice.
+</div>
 
 ---
 
-## 🛠️ Tools & Environment
+## 🏆 Achievements & Competition History
 
-**Operating Systems:**
+<div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0a97f5?style=flat-square&logo=linux&logoColor=white)
+### 🥇 2025 Competition Results
 
-**Languages (Learning):**
+<table>
+<tr>
+<td align="center" width="33%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3rd%20Place%20Medal.png" alt="Medal" width="50"/>
 
-**Security Tools (Hands-On Practice):**
+**🥉 LKS Keamanan Siber**  
+*Tingkat Kabupaten Banyumas*
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-EF3B2D?style=flat-square&logo=reverse-engineering&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-659AD2?style=flat-square&logo=gnu&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-FF6B35?style=flat-square&logo=security&logoColor=white)
-![CyberChef](https://img.shields.io/badge/CyberChef-FF9800?style=flat-square&logo=chef&logoColor=white)
+**3rd Place** | 2025  
+IT Network Systems Administration  
+Cybersecurity Competition
 
-I'm learning to use these tools effectively through practice labs, CTF challenges, and self-study. Proficiency comes from consistent hands-on experience.
+</td>
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/2nd%20Place%20Medal.png" alt="Medal" width="50"/>
+
+**🥈 Piala Gubernur 2025**  
+*Cyber Security Competition*
+
+**Top 10 Finalist**  
+Attack & Defense CTF  
+Patching Specialist
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="50"/>
+
+**🏅 CSSC Amikom YK**  
+*Cyber Security School Competition*
+
+**Top 21**  
+Regional High School CTF  
+Problem Solving Under Pressure
+
+</td>
+</tr>
+</table>
+
+### 🎯 National Level Participation
+
+| Event | Type | Role | Year |
+|-------|------|------|------|
+| **Cyber Jawara 2025** | National CTF | Team Member | 2025 |
+| Focus Areas | Web Exploitation & Cryptography | Active Participant | - |
+
+</div>
 
 ---
 
-## 📁 What You'll Find Here
+## 🛠️ Technology Arsenal
 
-**Learning Projects:**
-- CTF write-ups documenting my approach and solutions
-- Practice labs for common vulnerabilities
-- Scripts and automation tools I'm building while learning Python
-- Notes and documentation from self-study
+<div align="center">
 
-**Current Work:**
-- Building a vulnerable web application lab (OWASP Top 10)
-- Documenting exploitation techniques and remediation
-- Creating beginner-friendly security tool scripts
-- CTF challenge write-ups and methodology
+### Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL2-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-This repository reflects my learning process — including mistakes, iterations, and gradual improvement.
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Security Toolkit
+
+**Web Application Testing**  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=hack-the-box&logoColor=white)
+
+**Network Analysis**  
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+**Reverse Engineering**  
+![Ghidra](https://img.shields.io/badge/Ghidra-EF3B2D?style=for-the-badge&logo=reverse-engineering&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-659AD2?style=for-the-badge&logo=gnu&logoColor=white)
+![IDA](https://img.shields.io/badge/IDA-00599C?style=for-the-badge&logo=reverse-engineering&logoColor=white)
+
+**Cryptography & Forensics**  
+![Hashcat](https://img.shields.io/badge/Hashcat-FF6B35?style=for-the-badge&logo=security&logoColor=white)
+![John](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=security&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-FF9800?style=for-the-badge&logo=chef&logoColor=white)
+
+</div>
 
 ---
 
-I'm working on building consistency through daily learning and regular commits. My goal is to demonstrate progress over time, not perfection from day one.
+## 📊 Learning Progress
 
----
+<div align="center">
 
-## 🎓 Learning Approach
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  📈 SKILL DEVELOPMENT JOURNEY                               │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Web Application Security    ████████░░░░  60%             │
+│  Network Security            ███████░░░░░  55%             │
+│  Cryptography               ██████░░░░░░  50%             │
+│  Reverse Engineering        █████░░░░░░░  45%             │
+│  Linux Administration       ████████░░░░  65%             │
+│  Python Scripting           ███████░░░░░  58%             │
+│                                                             │
+│  🎯 Focus: Consistent daily practice & CTF participation    │
+└─────────────────────────────────────────────────────────────┘
+```
 
-**How I Learn:**
+### 📚 Learning Resources
 
-1. **Hands-On First** — I learn best by doing, not just reading
-2. **Document Everything** — Writing reinforces understanding
-3. **Fail Forward** — Mistakes are learning opportunities
-4. **Ask Questions** — No question is too basic when you're learning
-5. **Stay Consistent** — Small daily progress compounds over time
+<table>
+<tr>
+<td align="center"><b>Platforms</b></td>
+<td>picoCTF • HackTheBox • TryHackMe • OverTheWire</td>
+</tr>
+<tr>
+<td align="center"><b>Documentation</b></td>
+<td>OWASP Top 10 • CWE/CVE Database • CTF Writeups</td>
+</tr>
+<tr>
+<td align="center"><b>Community</b></td>
+<td>YouTube Tutorials • Security Blogs • Discord Servers</td>
+</tr>
+</table>
 
-**Resources I Use:**
-- picoCTF, HackTheBox, TryHackMe for practical challenges
-- OWASP documentation for web security fundamentals
-- YouTube tutorials and technical blogs
-- CTF write-ups from experienced players
-- Open-source security tools and their documentation
+</div>
 
 ---
 
 ## 💼 PKL Internship Objective
 
-**What I'm Looking For:**
+<div align="center">
 
-I'm seeking a **PKL (Praktek Kerja Lapangan) internship** in **Yogyakarta** for Grade 12 (2026-2027 academic year) in the cybersecurity field.
+### 🎯 Seeking Professional Experience
 
-**Preferred Areas:**
-- Penetration testing firms
-- Security operations centers (SOC)
-- Cybersecurity consulting companies
-- IT security departments
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="60"/>
 
-**What I Bring:**
-- Strong motivation to learn from experienced professionals
-- Foundational knowledge in web security and networking
-- CTF competition experience demonstrating problem-solving skills
-- Self-directed learning discipline
-- Willingness to take on entry-level security tasks
-- Professional attitude and eagerness to contribute
+</div>
 
-**What I'm Seeking:**
-- Hands-on experience with real-world security operations
-- Mentorship from security professionals
-- Exposure to industry tools and workflows
-- Opportunity to apply classroom knowledge in practical settings
-- Understanding of professional cybersecurity practices
-
-I understand that as a vocational student, I'm entering as a learner, not an expert. I'm ready to work hard, ask good questions, and contribute where I can while building practical skills.
-
----
-
-## 📬 Contact Information
+```yaml
+internship_profile:
+  position: "PKL Cybersecurity Intern"
+  location: "Yogyakarta, Indonesia"
+  period: "2026-2027 Academic Year (Grade 12)"
+  
+  preferred_sectors:
+    - Penetration Testing Firms
+    - Security Operations Center (SOC)
+    - Cybersecurity Consulting
+    - IT Security Departments
+  
+  what_i_bring:
+    technical_skills:
+      - Web Application Security Fundamentals
+      - Network Security Knowledge
+      - CTF Problem-Solving Experience
+      - Linux System Administration
+    
+    soft_skills:
+      - Self-directed Learning Discipline
+      - Team Collaboration (CTF Competitions)
+      - Professional Communication
+      - Eagerness to Learn from Mentors
+    
+    achievements:
+      - LKS Cybersecurity 3rd Place (Regional)
+      - Multiple CTF Competition Finalist
+      - Consistent Hands-on Practice Record
+  
+  learning_goals:
+    - Real-world security operations exposure
+    - Industry-standard tool proficiency
+    - Professional workflow understanding
+    - Mentorship from experienced professionals
+    
+  availability: "Ready to contribute and learn"
+```
 
 <div align="center">
 
-**Open to PKL Opportunities | Available for Collaboration**
+**💡 I understand I'm entering as a learner, not an expert.**  
+*Ready to work hard, ask smart questions, and grow professionally.*
 
-[![Email](https://img.shields.io/badge/Email-glenviorahardjo29@gmail.com-5E936C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glenviorahardjo29@gmail.com)
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-93DA97?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/glenvio-regalito-rahardjo-2784ba387)
+---
 
-[![Portfolio](https://img.shields.io/badge/GitHub-rahardjo--glenvio-E8FFD7?style=for-the-badge&logo=github&logoColor=black&labelColor=3E5F44)](https://github.com/rahardjo-glenvio)
+## 📁 Repository Overview
 
-**Response Time:** Usually within 24 hours
+<div align="center">
+
+### 🗂️ What You'll Find Here
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**🎓 Learning Projects**
+- CTF writeups & methodology
+- Vulnerable lab environments
+- Security tool automation scripts
+- Self-study documentation
+
+</td>
+<td width="50%">
+
+**🔧 Current Work**
+- OWASP Top 10 practice labs
+- Exploitation & remediation docs
+- Python security utilities
+- Challenge solution archives
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────┐
+│  📌 Repository Philosophy                │
+├──────────────────────────────────────────┤
+│                                          │
+│  This is my learning journal, not a     │
+│  showcase of mastery. Every commit      │
+│  represents progress, practice, and     │
+│  persistence in building cybersecurity  │
+│  fundamentals.                          │
+│                                          │
+│  🚀 Focus: Progress over Perfection     │
+└──────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahardjo-glenvio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahardjo-glenvio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahardjo-glenvio&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahardjo-glenvio&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🎯 Learning Philosophy
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   "I don't know everything. I'm not trying to."          ║
+║                                                           ║
+║   My focus:                                              ║
+║   ✓ Learning consistently every day                      ║
+║   ✓ Building fundamentals properly                       ║
+║   ✓ Documenting progress publicly                        ║
+║   ✓ Getting 1% better daily                             ║
+║                                                           ║
+║   The goal isn't to be the best.                         ║
+║   The goal is to be better than yesterday.               ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+### 📖 5 Core Principles
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>
+<br><b>Hands-On First</b>
+<br><sub>Learn by doing</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="40"/>
+<br><b>Document All</b>
+<br><sub>Writing reinforces</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40"/>
+<br><b>Fail Forward</b>
+<br><sub>Mistakes = lessons</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="40"/>
+<br><b>Ask Questions</b>
+<br><sub>No stupid questions</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40"/>
+<br><b>Stay Consistent</b>
+<br><sub>Daily progress</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+### 🌐 Let's Collaborate!
+
+<p>
+  <a href="mailto:glenviorahardjo29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-glenviorahardjo29@gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/glenvio-regalito-rahardjo-2784ba387">
+    <img src="https://img.shields.io/badge/LinkedIn-Glenvio_Rahardjo-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/rahardjo-glenvio">
+    <img src="https://img.shields.io/badge/GitHub-rahardjo--glenvio-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
+  </a>
+</p>
+
+```
+┌────────────────────────────────────────┐
+│  💼 Open for PKL Opportunities         │
+│  🤝 Available for Collaboration        │
+│  ⚡ Response Time: Within 24 hours     │
+└────────────────────────────────────────┘
+```
 
 </div>
 
@@ -212,30 +440,25 @@ I understand that as a vocational student, I'm entering as a learner, not an exp
 
 <div align="center">
 
-### 🚀 Learning Philosophy
-```
-I don't know everything. I'm not trying to.
-
-I'm focused on:
-✓ Learning consistently
-✓ Building fundamentals properly
-✓ Documenting my progress
-✓ Getting 1% better every day
-
-The goal isn't to be the best.
-The goal is to be better than yesterday.
-```
-
----
+### 💭 Final Words
 
 *"This repository represents my journey, not my destination."*
 
-*Every commit is a step forward. Every challenge is a lesson. Every mistake is an opportunity to improve.*
+**Every commit is a step forward.**  
+**Every challenge is a lesson.**  
+**Every mistake is an opportunity to improve.**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30"/> **Currently learning and growing** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30"/>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=3E5F44&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer)
 
-<sub>📫 Interested in PKL collaboration or mentorship? Feel free to reach out | 🌱 Currently learning and growing</sub>
+<sub>🔐 Passionate about cybersecurity | 🎯 Focused on growth | 💼 Seeking PKL in Yogyakarta | 📫 Always open to connect</sub>
+
+<br>
+
+**Made with 💙 by Glenvio Rahardjo**  
+*Last Updated: May 2025*
 
 </div>
