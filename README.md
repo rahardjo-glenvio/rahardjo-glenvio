@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Glenvio 👋
+# Glenvio Regalito Rahardjo
 
 **Cybersecurity Student | Penetration Testing Enthusiast | CTF Player**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
@@ -50,12 +50,12 @@ From placing 3rd at LKS Cyber Security Kabupaten Banyumas to reaching Top 10 at 
 
 ---
 
-## 🏆 Competition Achievements
+## Competition Achievements
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🥉_3rd_Place-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/3rd_Place-FFD700?style=for-the-badge" />
 <br><br>
 <b>LKS Cyber Security</b>
 <br>
@@ -64,7 +64,7 @@ From placing 3rd at LKS Cyber Security Kabupaten Banyumas to reaching Top 10 at 
 <sub>Jeopardy Format</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔟_Top_10-C0C0C0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Top_10-C0C0C0?style=for-the-badge" />
 <br><br>
 <b>Piala Gubernur Jateng</b>
 <br>
@@ -96,7 +96,7 @@ From placing 3rd at LKS Cyber Security Kabupaten Banyumas to reaching Top 10 at 
 
 ---
 
-## 🛠️ Technical Skills Matrix
+## Technical Skills Matrix
 
 ### Penetration Testing & Security
 
@@ -219,7 +219,7 @@ SQL          ███████░░░ 70%
 
 ---
 
-## 📚 Learning Philosophy
+## Learning Philosophy
 
 > "I don't claim expertise—I claim consistent effort."
 
@@ -244,73 +244,68 @@ Every unsolved CTF challenge, every failed exploit, every misconfigured tool is 
 
 ---
 
-## 🚀 Notable Projects
+## Security Tools
+
+Tools and automation scripts for penetration testing and security research.
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 StematelCTF Platform
-Docker-based CTF challenge hosting system with per-user isolated instances.
+### HeimdallrOsint
+OSINT reconnaissance and information gathering framework.
+
+**Focus:**  
+Open-source intelligence collection, automated enumeration, data aggregation
 
 **Tech Stack:**  
-`CTFd` `Docker Swarm` `FRP Proxy` `Python`
+`Python` `OSINT APIs` `Data Processing`
 
-**Challenges Built:**
-- File upload vulnerability exploitation
-- Web reconnaissance & OSINT
-- SQL injection practice environments
-
-[View Project →](#)
+[View Tool →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/tools/HeimdallrOsint)
 
 </td>
 <td width="50%">
 
-### 🗣️ AI Voice Assistant
-Desktop voice assistant powered by Claude API with natural language processing.
+### WazuhSIEMxSentinelMap
+Integration project connecting Wazuh SIEM with Microsoft Sentinel for enhanced threat visibility.
+
+**Focus:**  
+SIEM integration, log forwarding, threat correlation
 
 **Tech Stack:**  
-`Electron` `Node.js` `Claude API` `Web Speech API`
+`Wazuh` `Microsoft Sentinel` `Log Analytics` `KQL`
 
-**Features:**
-- Voice command recognition
-- Natural conversation flow
-- Desktop integration
-
-[View Project →](#)
+[View Tool →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/tools/WazuhSIEMxSentinelMap)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔐 TokoHack SQL Injection Lab
-Self-contained educational environment for learning SQL injection techniques.
+### Network Tools
+Collection of network security and analysis utilities.
+
+**Focus:**  
+Network scanning, traffic analysis, protocol testing
 
 **Tech Stack:**  
-`HTML/CSS/JS` `SQLite` `Interactive Console`
+`Python` `Scapy` `Network Protocols`
 
-**Coverage:**
-- Login bypass
-- UNION-based extraction
-- Error-based SQLi
-- Blind SQL injection
-
-[View Project →](#)
+[View Tool →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/tools/network)
 
 </td>
 <td width="50%">
 
-### 🛡️ Security Automation Scripts
-Collection of Python tools for penetration testing workflows.
+### Reconforge
+Automated reconnaissance tool for information gathering phase.
 
-**Tools:**
-- Automated brute-force scripts
-- HTTP parameter fuzzing
-- Response validation
-- Custom payload generators
+**Focus:**  
+Subdomain enumeration, port scanning, service detection
 
-[View Repository →](#)
+**Tech Stack:**  
+`Python` `Nmap` `DNS Tools`
+
+[View Tool →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/tools/reconforge)
 
 </td>
 </tr>
@@ -318,7 +313,137 @@ Collection of Python tools for penetration testing workflows.
 
 ---
 
-## 📜 Certifications & Training
+## Security Labs
+
+Hands-on practice environments for security testing and defense simulation.
+
+<table>
+<tr>
+<td width="50%">
+
+### Brute Force SSH Simulation & Incident Response
+Lab simulating SSH brute-force attacks with complete incident response procedures.
+
+**Skills Practiced:**  
+Attack simulation, log analysis, incident response, mitigation techniques
+
+[View Lab →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/labs/Brute_Force_SSH_Simulation_Incident_Response)
+
+</td>
+<td width="50%">
+
+### Defense in Depth Ubuntu Server
+Implementation of layered security controls on Ubuntu server infrastructure.
+
+**Skills Practiced:**  
+Firewall configuration, intrusion detection, access control, hardening
+
+[View Lab →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/labs/Implementasi_Defense_in_Depth_Ubuntu_Server)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Wazuh SIEM Brute Force Detection
+SIEM implementation for detecting and alerting on SSH brute-force attempts.
+
+**Skills Practiced:**  
+SIEM configuration, rule creation, alert tuning, threat detection
+
+[View Lab →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/labs/WAZUH_SIEM_BRUTE_FORCE_SSH)
+
+</td>
+<td width="50%">
+
+### IPTables Availability Lab
+Firewall rule testing and DoS mitigation using iptables.
+
+**Skills Practiced:**  
+Linux firewall, packet filtering, rate limiting, DoS protection
+
+[View Lab →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/labs/iptables-availability-lab)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### VSFTPd 2.3.4 Vulnerable Service Lab
+Exploitation lab for known VSFTPd backdoor vulnerability.
+
+**Skills Practiced:**  
+Vulnerability exploitation, Metasploit usage, service enumeration
+
+[View Lab →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/labs/vsftpd-234-vulnerable-service-lab)
+
+</td>
+<td width="50%">
+
+### VulnLab 30 Days Challenge
+Month-long hands-on security challenge covering multiple attack vectors.
+
+**Skills Practiced:**  
+Web exploitation, privilege escalation, network pentesting
+
+[View Lab →](https://github.com/rahardjo-glenvio/cybersecurity-portfolio/tree/main/labs/vulnlab-30days)
+
+</td>
+</tr>
+</table>
+
+---
+
+## CTF Writeups
+
+Detailed documentation of CTF challenges solved, methodologies used, and lessons learned.
+
+**Repository:** [ctf-writeups](https://github.com/rahardjo-glenvio/ctf-writeups)
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**CSSC DIY 2025**
+
+Cyber Security School Competition DIY Regional
+
+[View Writeups →](https://github.com/rahardjo-glenvio/ctf-writeups/tree/main/CSSC-DIY-2025)
+
+</td>
+<td align="center" width="25%">
+
+**Cyber Jawara**
+
+National-level CTF competition writeups
+
+[View Writeups →](https://github.com/rahardjo-glenvio/ctf-writeups/tree/main/CYBER-JAWARA)
+
+</td>
+<td align="center" width="25%">
+
+**HackTheBox**
+
+HTB machine walkthroughs and challenge solutions
+
+[View Writeups →](https://github.com/rahardjo-glenvio/ctf-writeups/tree/main/HackTheBox)
+
+</td>
+<td align="center" width="25%">
+
+**picoCTF**
+
+picoCTF challenge solutions and learning notes
+
+[View Writeups →](https://github.com/rahardjo-glenvio/ctf-writeups/tree/main/picoCTF)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Certifications & Training
 
 <details>
 <summary><b>Click to expand certification list</b></summary>
@@ -326,29 +451,29 @@ Collection of Python tools for penetration testing workflows.
 <br>
 
 **Security Focused**
-- ✅ Cyber Security Officer (Telkom DigiUp 2025)
-- ✅ Complete Ethical Hacking Bootcamp (Udemy)
-- ✅ Basic Cybersecurity (JagoanSiber)
-- ✅ Introduction to Cybersecurity (Cisco)
-- ✅ Pre Security Learning Path (TryHackMe)
-- ✅ How Hackers Bypass Windows Security (Merdeka Siber)
+- Cyber Security Officer (Telkom DigiUp 2025)
+- Complete Ethical Hacking Bootcamp (Udemy)
+- Basic Cybersecurity (JagoanSiber)
+- Introduction to Cybersecurity (Cisco)
+- Pre Security Learning Path (TryHackMe)
+- How Hackers Bypass Windows Security (Merdeka Siber)
 
 **Programming & Infrastructure**
-- ✅ Python Fundamental (Aguna Course)
-- ✅ Task Automation Bash & Cron Linux (ID-Networkers)
-- ✅ Virtual Machine Fundamental (Aguna Course)
-- ✅ Linux Fundamental Certification
+- Python Fundamental (Aguna Course)
+- Task Automation Bash & Cron Linux (ID-Networkers)
+- Virtual Machine Fundamental (Aguna Course)
+- Linux Fundamental Certification
 
 **Auxiliary Skills**
-- ✅ Excel Data Analysis (Udemy)
-- ✅ Azure AI-900 Prep (Microsoft)
-- ✅ Level Up with AI (Telkom)
+- Excel Data Analysis (Udemy)
+- Azure AI-900 Prep (Microsoft)
+- Level Up with AI (Telkom)
 
 </details>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -362,7 +487,7 @@ Collection of Python tools for penetration testing workflows.
 
 ---
 
-## 🎓 Education & Programs
+## Education & Programs
 
 **SMK Telkom Purwokerto**  
 *Teknik Jaringan Komputer dan Telekomunikasi (TJKT)*  
@@ -370,13 +495,13 @@ Specialization: Cyber Security
 Expected Graduation: 2026
 
 **Active Programs:**
-- 🎯 Merdeka Siber Batch 25 (Cyber Security Training)
-- 🔐 ID.Networkers Pentesting Bootcamp (Mentored by Akhdan Arif)
-- 📚 Self-directed learning through CTF platforms
+- Merdeka Siber Batch 25 (Cyber Security Training)
+- ID.Networkers Pentesting Bootcamp (Mentored by Akhdan Arif)
+- Self-directed learning through CTF platforms
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in connecting with fellow security enthusiasts, potential collaborators, and anyone passionate about cybersecurity.
 
@@ -394,7 +519,7 @@ I'm always interested in connecting with fellow security enthusiasts, potential 
 
 <div align="center">
 
-### 💭 Final Thoughts
+### Final Thoughts
 
 *"Security isn't about knowing every exploit—it's about understanding systems deeply enough to see where they're fragile. Every vulnerability I discover, every challenge I solve, and every system I secure teaches me that lesson again."*
 
@@ -405,6 +530,6 @@ I'm always interested in connecting with fellow security enthusiasts, potential 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahardjo-glenvio&color=38BDF8&style=flat-square)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-10B981?style=flat-square)
 
-**Made with 💙 and lots of ☕ by Glenvio**
+**Made with dedication and coffee by Glenvio**
 
 </div>
