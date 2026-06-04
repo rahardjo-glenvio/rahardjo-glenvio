@@ -11,7 +11,7 @@
 
 ---
 
-Masih belajar, masih sering salah, tapi konsisten. Fokus utama saya sekarang di web pentesting dan CTF. Saya dokumentasikan semua yang saya pelajari — termasuk yang gagal.
+Masih belajar, masih sering salah, tapi konsisten. Fokus utama saya sekarang di web pentesting dan CTF. Saya dokumentasikan semua yang saya pelajari, termasuk yang gagal...
 
 ---
 
