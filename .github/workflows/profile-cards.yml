@@ -1,0 +1,77 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 07:00 WIB
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare output folder
+        run: mkdir -p profile
+
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&custom_title=Activity%20Ledger&bg_color=135,180C0F,0A0204&title_color=E80014&icon_color=C09EA9&text_color=ECD9DF&ring_color=C00C1C&border_color=3D2226&border_radius=12
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&custom_title=Weapons%20of%20Choice&bg_color=135,180C0F,0A0204&title_color=E80014&text_color=ECD9DF&border_color=3D2226&border_radius=12
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin CyberAtlas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=CyberAtlas&bg_color=135,180C0F,0A0204&title_color=E80014&icon_color=C09EA9&text_color=ECD9DF&border_color=3D2226&border_radius=12
+          path: profile/pin-cyberatlas.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin ctf-writeups
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=ctf-writeups&bg_color=135,180C0F,0A0204&title_color=E80014&icon_color=C09EA9&text_color=ECD9DF&border_color=3D2226&border_radius=12
+          path: profile/pin-ctf-writeups.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin cybersecurity-portfolio
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=cybersecurity-portfolio&bg_color=135,180C0F,0A0204&title_color=E80014&icon_color=C09EA9&text_color=ECD9DF&border_color=3D2226&border_radius=12
+          path: profile/pin-cybersecurity-portfolio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Crimson snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg?color_snake=#E80014&color_dots=#180C0F,#3D2226,#6A4951,#8F6774,#C09EA9
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update profile cards" || exit 0
+          git push
