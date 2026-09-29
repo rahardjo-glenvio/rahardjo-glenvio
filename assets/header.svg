@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#180C0F"/><stop offset=".55" stop-color="#0A0204"/><stop offset="1" stop-color="#29161A"/>
+  </linearGradient>
+  <radialGradient id="glow" cx=".12" cy=".05" r=".75">
+    <stop offset="0" stop-color="#ECD9DF" stop-opacity=".55"/>
+    <stop offset=".35" stop-color="#C09EA9" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#0A0204" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse">
+    <circle cx="3.5" cy="3.5" r="1.25" fill="#C09EA9"/>
+  </pattern>
+  <radialGradient id="dotfade" cx=".85" cy=".55" r=".55">
+    <stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <mask id="dm"><rect width="1200" height="340" fill="url(#dotfade)"/></mask>
+  <radialGradient id="dotfade2" cx=".08" cy=".9" r=".4">
+    <stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <mask id="dm2"><rect width="1200" height="340" fill="url(#dotfade2)"/></mask>
+  <linearGradient id="slash" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ECD9DF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".85"/>
+    <stop offset="1" stop-color="#ECD9DF" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="iris" cx=".45" cy=".4" r=".6">
+    <stop offset="0" stop-color="#FF4A55"/><stop offset=".45" stop-color="#E80014"/><stop offset="1" stop-color="#5A0008"/>
+  </radialGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+  <filter id="textglow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
+    <feFlood flood-color="#C09EA9" flood-opacity=".55"/><feComposite in2="b" operator="in" result="g"/>
+    <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="redglow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="8" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="frame"><rect x="0" y="0" width="1200" height="340" rx="18"/></clipPath>
+</defs>
+<style>
+  .fog{animation:drift 26s ease-in-out infinite alternate}
+  .fog2{animation:drift2 32s ease-in-out infinite alternate}
+  @keyframes drift{from{transform:translateX(-90px)}to{transform:translateX(110px)}}
+  @keyframes drift2{from{transform:translateX(120px)}to{transform:translateX(-120px)}}
+  .glowpulse{animation:gp 7s ease-in-out infinite}
+  @keyframes gp{0%,100%{opacity:.75}50%{opacity:1}}
+  .sweep{animation:sw 7s cubic-bezier(.7,0,.3,1) infinite}
+  @keyframes sw{0%{transform:translate(-900px,0);opacity:0}8%{opacity:1}30%{transform:translate(1500px,0);opacity:1}31%,100%{transform:translate(1500px,0);opacity:0}}
+  .name{animation:flick 9s linear infinite}
+  @keyframes flick{0%,41%,43%,45%,100%{opacity:1}42%,44%{opacity:.55}}
+  .cut{stroke-dasharray:520;stroke-dashoffset:520;animation:cut 7s ease-out infinite}
+  @keyframes cut{0%{stroke-dashoffset:520}18%,85%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+  .fade1{opacity:0;animation:in 1.2s .3s ease-out forwards}
+  .fade2{opacity:0;animation:in 1.2s .9s ease-out forwards}
+  .fade3{opacity:0;animation:in 1.2s 1.5s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+  .ring{transform-origin:960px 170px;animation:spin 28s linear infinite}
+  .ring2{transform-origin:960px 170px;animation:spin 18s linear infinite reverse}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .iris{transform-origin:960px 170px;animation:beat 3.2s ease-in-out infinite}
+  @keyframes beat{0%,100%{transform:scale(1)}12%{transform:scale(1.08)}24%{transform:scale(.97)}36%{transform:scale(1.04)}}
+  .scan{animation:scan 4s ease-in-out infinite}
+  @keyframes scan{0%,100%{transform:translateY(-58px);opacity:0}15%,85%{opacity:.9}50%{transform:translateY(58px)}}
+  .ember{animation:rise 9s linear infinite;opacity:0}
+  @keyframes rise{0%{transform:translateY(0);opacity:0}10%{opacity:.9}100%{transform:translateY(-260px);opacity:0}}
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#glow)" class="glowpulse"/>
+  <rect width="1200" height="340" fill="url(#dots)" mask="url(#dm)"/>
+  <rect width="1200" height="340" fill="url(#dots)" mask="url(#dm2)"/>
+  <g class="fog" opacity=".22" filter="url(#blur)">
+    <ellipse cx="220" cy="300" rx="320" ry="55" fill="#C09EA9"/>
+    <ellipse cx="820" cy="320" rx="380" ry="50" fill="#8F6774"/>
+  </g>
+  <g class="fog2" opacity=".16" filter="url(#blur)">
+    <ellipse cx="520" cy="290" rx="300" ry="45" fill="#ECD9DF"/>
+    <ellipse cx="1080" cy="40" rx="260" ry="40" fill="#57393E"/>
+  </g>
+  <g transform="rotate(-24 600 170)">
+    <rect class="sweep" x="0" y="160" width="520" height="5" fill="url(#slash)" filter="url(#soft)"/>
+    <rect class="sweep" x="0" y="161.5" width="520" height="2" fill="url(#slash)"/>
+  </g>
+  <!-- embers -->
+  <circle class="ember" style="animation-delay:0s" cx="90" cy="345" r="1.6" fill="#E80014" opacity=".0"/><circle class="ember" style="animation-delay:2.4s" cx="260" cy="345" r="1.2" fill="#E80014" opacity=".0"/><circle class="ember" style="animation-delay:5.1s" cx="430" cy="345" r="1.8" fill="#E80014" opacity=".0"/><circle class="ember" style="animation-delay:1.3s" cx="640" cy="345" r="1.1" fill="#E80014" opacity=".0"/><circle class="ember" style="animation-delay:6.2s" cx="760" cy="345" r="1.5" fill="#E80014" opacity=".0"/><circle class="ember" style="animation-delay:3.7s" cx="1130" cy="345" r="1.3" fill="#E80014" opacity=".0"/><circle class="ember" style="animation-delay:7.4s" cx="1010" cy="345" r="1" fill="#E80014" opacity=".0"/>
+  <!-- text block -->
+  <g font-family="Georgia, 'Times New Roman', Times, serif">
+    <text class="fade1" x="72" y="96" fill="#8F6774" font-size="15" letter-spacing="6">CASE FILE No. 0x2A  ·  WHITECHAPEL DIVISION</text>
+    <g class="fade2">
+      <text class="name" x="70" y="164" fill="#ECD9DF" font-size="54" font-weight="700" letter-spacing="3" filter="url(#textglow)">GLENVIO REGALITO</text>
+      <text class="name" x="70" y="222" fill="#ECD9DF" font-size="54" font-weight="700" letter-spacing="3" filter="url(#textglow)">RAHARDJO</text>
+    </g>
+    <path class="cut" d="M72 246 L592 238" stroke="#E80014" stroke-width="2.4" stroke-linecap="round" filter="url(#redglow)"/>
+    <text class="fade3" x="72" y="284" fill="#C09EA9" font-size="19" font-style="italic" letter-spacing="1">Offensive Security  ·  Web Pentesting  ·  Responsible Disclosure</text>
+  </g>
+  <!-- the crimson eye (reticle) -->
+  <g>
+    <circle cx="960" cy="170" r="118" fill="#0A0204" opacity=".55"/>
+    <g class="ring" fill="none" stroke="#C09EA9" stroke-opacity=".55">
+      <circle cx="960" cy="170" r="112" stroke-width="1"/>
+      <circle cx="960" cy="170" r="104" stroke-width="6" stroke-dasharray="2 9" stroke-opacity=".45"/>
+      <path d="M960 52 v18 M960 270 v18 M842 170 h18 M1060 170 h18" stroke-width="2" stroke="#ECD9DF" stroke-opacity=".8"/>
+    </g>
+    <g class="ring2" fill="none" stroke="#C00C1C" stroke-opacity=".8">
+      <circle cx="960" cy="170" r="88" stroke-width="1.5" stroke-dasharray="60 18 8 18"/>
+    </g>
+    <circle cx="960" cy="170" r="74" fill="none" stroke="#57393E" stroke-width="1"/>
+    <g class="iris" filter="url(#redglow)">
+      <circle cx="960" cy="170" r="46" fill="url(#iris)"/>
+      <circle cx="960" cy="170" r="46" fill="none" stroke="#FF8A92" stroke-opacity=".5" stroke-width="1"/>
+      <ellipse cx="960" cy="170" rx="7" ry="22" fill="#0A0204"/>
+      <circle cx="946" cy="154" r="6" fill="#FFFFFF" opacity=".85"/>
+    </g>
+    <g clip-path="none">
+      <rect class="scan" x="886" y="169" width="148" height="1.6" fill="#ECD9DF" opacity=".8"/>
+    </g>
+    <text x="960" y="318" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="4" fill="#8F6774">TARGET ACQUIRED</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="338.5" rx="17.5" fill="none" stroke="#3D2226" stroke-width="1.5"/>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs>
+  <linearGradient id="fb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0204"/><stop offset="1" stop-color="#180C0F"/></linearGradient>
+  <clipPath id="fc"><rect width="1200" height="170" rx="18"/></clipPath>
+  <filter id="b" x="-50%" y="-100%" width="200%" height="300%"><feGaussianBlur stdDeviation="18"/></filter>
+  <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#C00C1C" stop-opacity="0"/><stop offset=".5" stop-color="#E80014"/><stop offset="1" stop-color="#C00C1C" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+ .f1{animation:a 22s ease-in-out infinite alternate}.f2{animation:b2 28s ease-in-out infinite alternate}
+ @keyframes a{from{transform:translateX(-120px)}to{transform:translateX(120px)}}
+ @keyframes b2{from{transform:translateX(140px)}to{transform:translateX(-140px)}}
+ .t{animation:p 6s ease-in-out infinite}@keyframes p{0%,100%{opacity:.65}50%{opacity:1}}
+</style>
+<g clip-path="url(#fc)">
+<rect width="1200" height="170" fill="url(#fb)"/>
+<g class="f1" opacity=".22" filter="url(#b)"><ellipse cx="300" cy="150" rx="360" ry="40" fill="#8F6774"/><ellipse cx="950" cy="160" rx="320" ry="36" fill="#C09EA9"/></g>
+<g class="f2" opacity=".2" filter="url(#b)"><ellipse cx="640" cy="140" rx="420" ry="34" fill="#ECD9DF"/></g>
+<rect x="300" y="58" width="600" height="1.2" fill="url(#ln)"/>
+<text class="t" x="600.0" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', Times, serif" font-style="italic" font-size="22" fill="#ECD9DF" letter-spacing="2">The case remains open.</text>
+<text x="600.0" y="128" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#C09EA9" letter-spacing="5">AUTHORIZED TESTING ONLY  ·  REPORT RESPONSIBLY</text>
+<rect x=".75" y=".75" width="1198.5" height="168.5" rx="17.5" fill="none" stroke="#3D2226" stroke-width="1.5"/>
+</g>
+</svg>

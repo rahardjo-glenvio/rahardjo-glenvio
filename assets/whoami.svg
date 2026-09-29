@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="404" viewBox="0 0 900 404">
+<defs>
+  <linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#180C0F"/><stop offset="1" stop-color="#0A0204"/></linearGradient>
+  <pattern id="d" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#C09EA9"/></pattern>
+  <radialGradient id="df" cx="1" cy="0" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <mask id="m"><rect width="900" height="404" fill="url(#df)"/></mask>
+</defs>
+<style>.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}.l0{opacity:0;animation:k0 18.0s linear infinite}@keyframes k0{0%,3.33%{opacity:0}3.39%,95.00%{opacity:1}97.78%,100%{opacity:0}}.c0{animation:w0 18.0s linear infinite}@keyframes w0{0%,3.33%{width:168.6px}5.67%,100%{width:223.2px}}.l1{opacity:0;animation:k1 18.0s linear infinite}@keyframes k1{0%,8.17%{opacity:0}8.22%,95.00%{opacity:1}97.78%,100%{opacity:0}}.l3{opacity:0;animation:k3 18.0s linear infinite}@keyframes k3{0%,10.28%{opacity:0}10.33%,95.00%{opacity:1}97.78%,100%{opacity:0}}.c3{animation:w3 18.0s linear infinite}@keyframes w3{0%,10.28%{width:168.6px}16.11%,100%{width:299.0px}}.l4{opacity:0;animation:k4 18.0s linear infinite}@keyframes k4{0%,18.61%{opacity:0}18.67%,95.00%{opacity:1}97.78%,100%{opacity:0}}.l5{opacity:0;animation:k5 18.0s linear infinite}@keyframes k5{0%,20.17%{opacity:0}20.22%,95.00%{opacity:1}97.78%,100%{opacity:0}}.l6{opacity:0;animation:k6 18.0s linear infinite}@keyframes k6{0%,21.72%{opacity:0}21.78%,95.00%{opacity:1}97.78%,100%{opacity:0}}.l7{opacity:0;animation:k7 18.0s linear infinite}@keyframes k7{0%,23.28%{opacity:0}23.33%,95.00%{opacity:1}97.78%,100%{opacity:0}}.l8{opacity:0;animation:k8 18.0s linear infinite}@keyframes k8{0%,24.83%{opacity:0}24.89%,95.00%{opacity:1}97.78%,100%{opacity:0}}.l10{opacity:0;animation:k10 18.0s linear infinite}@keyframes k10{0%,26.94%{opacity:0}27.00%,95.00%{opacity:1}97.78%,100%{opacity:0}}.c10{animation:w10 18.0s linear infinite}@keyframes w10{0%,26.94%{width:168.6px}32.00%,100%{width:282.2px}}.l11{opacity:0;animation:k11 18.0s linear infinite}@keyframes k11{0%,34.50%{opacity:0}34.56%,95.00%{opacity:1}97.78%,100%{opacity:0}}.l12{opacity:0;animation:k12 18.0s linear infinite}@keyframes k12{0%,36.06%{opacity:0}36.11%,95.00%{opacity:1}97.78%,100%{opacity:0}}</style>
+<rect x="1" y="1" width="898" height="402" rx="12" fill="url(#tb)" stroke="#3D2226" stroke-width="1.5"/>
+<rect x="1" y="1" width="898" height="402" rx="12" fill="url(#d)" mask="url(#m)"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H887 a12 12 0 0 1 12 12 V38 H1 Z" fill="#29161A"/>
+<line x1="1" y1="38" x2="899" y2="38" stroke="#3D2226"/>
+<circle cx="24" cy="20" r="6" fill="#C00C1C"/><circle cx="44" cy="20" r="6" fill="#57393E"/><circle cx="64" cy="20" r="6" fill="#8F6774"/>
+<text x="450.0" y="25" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8F6774" letter-spacing="1">case-file :: subject.log</text>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" xml:space="preserve">
+<clipPath id="cp0"><rect class="c0" x="28" y="53" width="168.6" height="24"/></clipPath>
+<text class="l0" x="28" y="70" clip-path="url(#cp0)"><tspan fill="#E80014">glen</tspan><tspan fill="#8F6774">@</tspan><tspan fill="#C09EA9">whitechapel</tspan><tspan fill="#8F6774">:~$ </tspan><tspan fill="#ECD9DF">whoami</tspan></text>
+<text class="l1" x="28" y="94"><tspan fill="#ECD9DF">glenvio</tspan><tspan fill="#8F6774">&#160;&#160;#&#160;aspiring&#160;penetration&#160;tester</tspan></text>
+<clipPath id="cp3"><rect class="c3" x="28" y="125" width="168.6" height="24"/></clipPath>
+<text class="l3" x="28" y="142" clip-path="url(#cp3)"><tspan fill="#E80014">glen</tspan><tspan fill="#8F6774">@</tspan><tspan fill="#C09EA9">whitechapel</tspan><tspan fill="#8F6774">:~$ </tspan><tspan fill="#ECD9DF">cat subject.txt</tspan></text>
+<text class="l4" x="28" y="166"><tspan fill="#E80014">&#160;&#160;school&#160;&#160;</tspan><tspan fill="#8F6774">:&#160;</tspan><tspan fill="#ECD9DF">SMK Telkom Purwokerto, Cyber Security track</tspan></text>
+<text class="l5" x="28" y="190"><tspan fill="#E80014">&#160;&#160;focus&#160;&#160;&#160;</tspan><tspan fill="#8F6774">:&#160;</tspan><tspan fill="#ECD9DF">web app pentest, vuln assessment, reporting</tspan></text>
+<text class="l6" x="28" y="214"><tspan fill="#E80014">&#160;&#160;also&#160;&#160;&#160;&#160;</tspan><tspan fill="#8F6774">:&#160;</tspan><tspan fill="#ECD9DF">blue team tooling: Wazuh SIEM, active response</tspan></text>
+<text class="l7" x="28" y="238"><tspan fill="#E80014">&#160;&#160;based&#160;&#160;&#160;</tspan><tspan fill="#8F6774">:&#160;</tspan><tspan fill="#ECD9DF">Purwokerto, Central Java, Indonesia</tspan></text>
+<text class="l8" x="28" y="262"><tspan fill="#E80014">&#160;&#160;status&#160;&#160;</tspan><tspan fill="#8F6774">:&#160;</tspan><tspan fill="#ECD9DF">open to security internship opportunities</tspan></text>
+<clipPath id="cp10"><rect class="c10" x="28" y="293" width="168.6" height="24"/></clipPath>
+<text class="l10" x="28" y="310" clip-path="url(#cp10)"><tspan fill="#E80014">glen</tspan><tspan fill="#8F6774">@</tspan><tspan fill="#C09EA9">whitechapel</tspan><tspan fill="#8F6774">:~$ </tspan><tspan fill="#ECD9DF">cat motto.txt</tspan></text>
+<text class="l11" x="28" y="334"><tspan fill="#C09EA9">&quot;Though&#160;this&#160;be&#160;madness,&#160;yet&#160;there&#160;is&#160;method&#160;in&#x27;t.&quot;</tspan></text>
+<text class="l12" x="28" y="358"><tspan fill="#E80014">glen</tspan><tspan fill="#8F6774">@</tspan><tspan fill="#C09EA9">whitechapel</tspan><tspan fill="#8F6774">:~$</tspan></text>
+<rect class="l12" x="196.6" y="344" width="9" height="17" fill="#E80014"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
