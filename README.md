@@ -7,9 +7,9 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/glenvio-rahardjo/"><img src="https://img.shields.io/badge/LinkedIn-180C0F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0U4MDAxNCIgZD0iTTQuOTggMy41YTIuNSAyLjUgMCAxIDEgMCA1IDIuNSAyLjUgMCAwIDEgMC01ek0zIDkuNzVoNHYxMUgzek05LjUgOS43NWgzLjh2MS41aC4wNWMuNTMtMSAxLjgzLTIuMDUgMy43Ny0yLjA1IDQuMDMgMCA0Ljc4IDIuNjUgNC43OCA2LjF2NS40NWgtNHYtNC44M2MwLTEuMTUtLjAyLTIuNjMtMS42LTIuNjMtMS42MSAwLTEuODUgMS4yNS0xLjg1IDIuNTV2NC45MWgtNHoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
-  <a href="mailto:glenviorahardjo29@gmail.com"><img src="https://img.shields.io/badge/Email-180C0F?style=for-the-badge&logo=gmail&logoColor=E80014" alt="Email"/></a>
-  <a href="https://www.instagram.com/rraahardjjo_/"><img src="https://img.shields.io/badge/Instagram-180C0F?style=for-the-badge&logo=instagram&logoColor=E80014" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/glenvio-rahardjo/"><img src="./assets/badges/linkedin.svg" height="28" alt="LinkedIn"/></a>
+  <a href="mailto:glenviorahardjo29@gmail.com"><img src="./assets/badges/gmail.svg" height="28" alt="Email"/></a>
+  <a href="https://www.instagram.com/rraahardjjo_/"><img src="./assets/badges/instagram.svg" height="28" alt="Instagram"/></a>
   <img src="https://komarev.com/ghpvc/?username=rahardjo-glenvio&label=CASE%20VIEWS&color=C00C1C&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -57,9 +57,9 @@ Still learning. Still getting things wrong. But consistent, and every case gets 
 
 | Year | Record |
 | :--: | :----- |
-| 2026 | **3rd Place**, LKS Cyber Security, Kabupaten Banyumas |
-| 2026 | **Top 1 Best Student**, Meta4sec "Are You Ready to Be a Pentester?" Batch 16 |
-| 2026 | **Certificate of Excellence**, Merdeka Siber Red Teaming & Offensive Security Batch 25 |
+| 2026 | **3rd Place**, LKS Cyber Security, Kabupaten Banyumas &nbsp;·&nbsp; [Post](https://lnkd.in/p/eSdyEZrs) |
+| 2026 | **Top 1 Best Student**, Meta4sec "Are You Ready to Be a Pentester?" Batch 16 &nbsp;·&nbsp; [Post](https://lnkd.in/p/esPPEPzs) |
+| 2026 | **Certificate of Excellence**, Merdeka Siber Red Teaming & Offensive Security Batch 25 &nbsp;·&nbsp; [Post](https://lnkd.in/p/e5ga4WyX) |
 | 2026 | **Certificates of Appreciation**, RiauCSIRT, BandungCSIRT, CimahiCSIRT, BMKG-CSIRT |
 | 2025 | **Top 10 Finalist**, Piala Gubernur Jawa Tengah Cyber Security |
 | 2025 | **Top 21**, CSSC Amikom Yogyakarta |
@@ -72,6 +72,10 @@ Still learning. Still getting things wrong. But consistent, and every case gets 
 | Case | Findings | Evidence |
 | :--- | :------- | :------: |
 | **MBPTL Penetration Testing Lab** | Full legal attack flow: enumeration, exploitation, post-exploitation | [Write-up](https://www.linkedin.com/feed/update/urn:li:activity:7508158467027886080/) |
+| **Merdeka Siber Batch 25** | Black box web app pentest on Zero Bank (simulated banking): XSS and improper input validation, OWASP methodology | [Report](https://www.linkedin.com/in/glenvio-rahardjo/overlay/Position/2890022485/treasury/?profileId=ACoAAF9K3_wBEq8YzIxH2u01twGHWu1He8MpRLk) |
+| **Meta4sec Batch 16** | Final exam assessment of zero.webappsecurity.com: 42 findings from Critical to Informational, including SQL Injection, XSS and Broken Access Control | [Report](https://www.linkedin.com/in/glenvio-rahardjo/overlay/Position/2943732413/treasury/?profileId=ACoAAF9K3_wBEq8YzIxH2u01twGHWu1He8MpRLk) |
+| **IDS Cybersec Academy Batch 1** | Final exam assessment of TokoPakWowo (simulated e-commerce) against OWASP Top 10 2021 and WSTG | [Report](https://www.linkedin.com/in/glenvio-rahardjo/overlay/Position/2882258325/treasury/?profileId=ACoAAF9K3_wBEq8YzIxH2u01twGHWu1He8MpRLk) |
+| **ID-Networkers Bootcamp** | White box pentest of IVMarket (simulated e-commerce) against OWASP Top 10 2021 | [Report](https://www.linkedin.com/in/glenvio-rahardjo/overlay/Position/2882258405/treasury/?profileId=ACoAAF9K3_wBEq8YzIxH2u01twGHWu1He8MpRLk) |
 | **Hack The Box** | IDOR, PCAP analysis, Log4Shell, webshell, credential reuse, privilege escalation | [Cap](https://www.linkedin.com/feed/update/urn:li:activity:7498549651009363968/) · [Unified](https://www.linkedin.com/feed/update/urn:li:activity:7497141702135017472/) · [Oopsie](https://www.linkedin.com/feed/update/urn:li:activity:7496789423829745664/) |
 | **Android App Security** | AndroGoat with MobSF, DIVA analyzed manually with JADX and ADB | [AndroGoat](https://www.linkedin.com/feed/update/urn:li:activity:7500158539882160128/) · [DIVA](https://www.linkedin.com/feed/update/urn:li:activity:7499794963673600001/) |
 | **Responsible Disclosure** | In-scope reports acknowledged by government CSIRTs | [BMKG](https://www.linkedin.com/feed/update/urn:li:activity:7498971872986836992/) · [Cimahi](https://www.linkedin.com/feed/update/urn:li:activity:7503304239981424640/) |
@@ -87,25 +91,25 @@ Still learning. Still getting things wrong. But consistent, and every case gets 
 ## V. Instruments of the Trade
 
 **Offensive**<br/>
-<img src="https://img.shields.io/badge/Burp_Suite-180C0F?style=for-the-badge&logo=burpsuite&logoColor=E80014" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Nmap-180C0F?style=for-the-badge&logo=gnometerminal&logoColor=E80014" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Nuclei-180C0F?style=for-the-badge" alt="Nuclei"/>
-<img src="https://img.shields.io/badge/ffuf-180C0F?style=for-the-badge" alt="ffuf"/>
-<img src="https://img.shields.io/badge/Kali_Linux-180C0F?style=for-the-badge&logo=kalilinux&logoColor=E80014" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/OWASP-180C0F?style=for-the-badge&logo=owasp&logoColor=E80014" alt="OWASP"/>
-<img src="https://img.shields.io/badge/Hack_The_Box-180C0F?style=for-the-badge&logo=hackthebox&logoColor=E80014" alt="Hack The Box"/>
+<img src="./assets/badges/burpsuite.svg" height="28" alt="Burp Suite"/>
+<img src="./assets/badges/nmap.svg" height="28" alt="Nmap"/>
+<img src="./assets/badges/nuclei.svg" height="28" alt="Nuclei"/>
+<img src="./assets/badges/ffuf.svg" height="28" alt="ffuf"/>
+<img src="./assets/badges/kalilinux.svg" height="28" alt="Kali Linux"/>
+<img src="./assets/badges/owasp.svg" height="28" alt="OWASP"/>
+<img src="./assets/badges/hackthebox.svg" height="28" alt="Hack The Box"/>
 
 **Defensive & Infrastructure**<br/>
-<img src="https://img.shields.io/badge/Wazuh-180C0F?style=for-the-badge" alt="Wazuh"/>
-<img src="https://img.shields.io/badge/MikroTik-180C0F?style=for-the-badge&logo=mikrotik&logoColor=E80014" alt="MikroTik"/>
-<img src="https://img.shields.io/badge/Linux-180C0F?style=for-the-badge&logo=linux&logoColor=E80014" alt="Linux"/>
-<img src="https://img.shields.io/badge/Android-180C0F?style=for-the-badge&logo=android&logoColor=E80014" alt="Android"/>
+<img src="./assets/badges/wazuh.svg" height="28" alt="Wazuh"/>
+<img src="./assets/badges/mikrotik.svg" height="28" alt="MikroTik"/>
+<img src="./assets/badges/linux.svg" height="28" alt="Linux"/>
+<img src="./assets/badges/android.svg" height="28" alt="Android"/>
 
 **Code**<br/>
-<img src="https://img.shields.io/badge/Python-180C0F?style=for-the-badge&logo=python&logoColor=E80014" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-180C0F?style=for-the-badge&logo=gnubash&logoColor=E80014" alt="Bash"/>
-<img src="https://img.shields.io/badge/Node.js-180C0F?style=for-the-badge&logo=nodedotjs&logoColor=E80014" alt="Node.js"/>
-<img src="https://img.shields.io/badge/React-180C0F?style=for-the-badge&logo=react&logoColor=E80014" alt="React"/>
+<img src="./assets/badges/python.svg" height="28" alt="Python"/>
+<img src="./assets/badges/bash.svg" height="28" alt="Bash"/>
+<img src="./assets/badges/nodejs.svg" height="28" alt="Node.js"/>
+<img src="./assets/badges/react.svg" height="28" alt="React"/>
 
 **Methods I actually use**<br/>
 `OWASP Top 10` `XSS` `SQL Injection` `Broken Access Control` `IDOR` `Recon & OSINT` `Vulnerability Assessment` `Manual Validation` `Technical Reporting`
