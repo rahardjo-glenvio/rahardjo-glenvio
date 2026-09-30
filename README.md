@@ -135,8 +135,8 @@ Brand Ambassador of SMK Telkom Purwokerto &nbsp;·&nbsp; OSIS, Democracy & Human
 ## VIII. Activity Ledger
 
 <div align="center">
-  <img src="./profile/stats.svg" height="175" alt="GitHub stats"/>
-  <img src="./profile/top-langs.svg" height="175" alt="Top languages"/>
+  <img src="./profile/stats.svg" width="49%" alt="GitHub stats"/>
+  <img src="./profile/top-langs.svg" width="49%" alt="Top languages"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=wh1techapel&background=0A0204&border=3D2226&stroke=3D2226&ring=C00C1C&fire=E80014&currStreakNum=ECD9DF&currStreakLabel=E80014&sideNums=ECD9DF&sideLabels=C09EA9&dates=8F6774" width="70%" alt="GitHub streak"/>
   <br/><br/>
