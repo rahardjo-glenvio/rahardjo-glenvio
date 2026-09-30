@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&custom_title=Activity%20Ledger&bg_color=135,180C0F,0A0204&title_color=E80014&icon_color=C09EA9&text_color=ECD9DF&ring_color=C00C1C&border_color=3D2226&border_radius=12
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide=issues&line_height=24&card_width=380&custom_title=Activity%20Ledger&bg_color=135,180C0F,0A0204&title_color=E80014&icon_color=C09EA9&text_color=ECD9DF&ring_color=C00C1C&border_color=3D2226&border_radius=12
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&custom_title=Weapons%20of%20Choice&bg_color=135,180C0F,0A0204&title_color=E80014&text_color=ECD9DF&border_color=3D2226&border_radius=12
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=380&custom_title=Weapons%20of%20Choice&bg_color=135,180C0F,0A0204&title_color=E80014&text_color=ECD9DF&border_color=3D2226&border_radius=12
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
